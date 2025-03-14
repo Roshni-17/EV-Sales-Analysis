@@ -10,3 +10,7 @@ This Power BI dashboard provides an in-depth analysis of  EV/Hybrid vehicle mark
 •	State-Wise EV Growth: Displays the compound annual growth rate (CAGR) of EV sales by state.
 •	Penetration Rate Analysis: Displays a barchart showing top 5 states by penetration rate.
 •	Projected EV Sales: Computes the projected EV sales for the year 2030.
+
+Dashboard: https://github.com/Roshni-17/EV-Sales-Analysis/blob/main/ev.pbix
+Dashboard images: https://github.com/Roshni-17/EV-Sales-Analysis/blob/main/Slide1.JPG
+                  https://github.com/Roshni-17/EV-Sales-Analysis/blob/main/Slide2.JPG
